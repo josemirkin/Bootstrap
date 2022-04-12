@@ -5,3 +5,19 @@
 .nav-custom {
     display: flex;
 }
+
+.f1-logo {
+    width: 300px;
+}
+
+.card-img-top {
+    height: 290px;
+}
+
+.page-header {
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+}
