@@ -1,0 +1,11 @@
+.nav-container {
+    justify-content: space-between;
+}
+
+.nav-custom {
+    display: flex;
+}
+
+.custom-card {
+    text-align: center;
+}
